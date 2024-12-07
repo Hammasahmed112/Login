@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179911496721",
+    "project_id": "password-535ac",
+    "storage_bucket": "password-535ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179911496721:android:1b947ab1edfbd8aafb0db0",
+        "android_client_info": {
+          "package_name": "com.example.hammas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNJUHaZkry7cfg4hfbj5h0fNa407ULpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179911496721:android:3760ce9150144030fb0db0",
+        "android_client_info": {
+          "package_name": "com.example.id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoNJUHaZkry7cfg4hfbj5h0fNa407ULpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
